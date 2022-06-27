@@ -2,7 +2,7 @@
 
 # Projeto 'Cadastro de Pacientes' em React.js:
 
-Este projeto foi desenvolvido simulando um sistema para cadastro de pacientes. Para conseguir utilizar a aplicação, é necessário realizar um cadastro e efetuar login. Apenas assim é possível acessar as demais telas. Podemos cadastrar nossos pacientes e eles irão aparecer listados em tela na ordem de cadastro. Assim como o cadastro, podemos editar e deletar conforme necessário.
+Este projeto foi desenvolvido simulando um sistema para cadastro de pacientes. Para conseguir utilizar a aplicação, é necessário realizar um cadastro e efetuar login. Apenas assim é possível acessar as demais telas. Podemos cadastrar nossos pacientes e eles irão aparecer listados em tela na ordem de cadastro. Assim como podemos cadastrar pacientes, podemos também, editar ou remover.
 
 # Funções de forma rápida:
 
