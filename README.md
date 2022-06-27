@@ -23,6 +23,11 @@ Este projeto foi desenvolvido simulando um sistema para cadastro de pacientes. P
 * Javascript
 
 ## Dependências:
+- axios
+- icons
+- router dom
+- toastify
+- styled components
 - express
 - nodemon -D
 - consign
