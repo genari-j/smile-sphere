@@ -31,6 +31,5 @@ Este projeto foi desenvolvido simulando um sistema para cadastro de pacientes. P
 - mysql2
 - bcrypt
 - jwt-simple
-- jwt-simple
 - passport
 - passport-jwt
