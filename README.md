@@ -1,4 +1,4 @@
-<img src="https://github.com/victorgenari/patient-Sys/blob/main/patientSys-frontend/src/assets/images/patientSys.jpg">
+<img src="https://raw.githubusercontent.com/victorgenari/patient-Sys/main/smile-sphere-frontend/src/assets/images/smile-sphere.bmp">
 
 # Projeto 'Cadastro de Pacientes' em React.js:
 
