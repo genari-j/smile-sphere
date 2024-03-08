@@ -6,35 +6,35 @@ Este projeto foi desenvolvido simulando um sistema para cadastro de pacientes. P
 
 ## Funções de forma rápida:
 
-* Crie um usuário e faça login na aplicação para conseguir navegar;
+* Crie um usuário e faça login na aplicação;
 * Cadastre seus pacientes com base no conjunto de informações;
 * Edite seus pacientes conforme o decorrer de cada tratamento;
 * Remova qualquer paciente caso necessário;
 
 ### Obs:
-* Toda a aplicação está responsiva e utilizável em qualquer pixel entre telas.
+* Toda a aplicação está com layout responsivo.
 
 ## Ferramentas/tecnologias utilizadas:
 
-* Visual Studio Code (programa)
-* HTML & Styled-Components
-* React.js
-* Node.js
-* Javascript
+* Visual Studio Code (programa);
+* HTML & Styled-Components;
+* React.js;
+* Node.js;
+* Javascript;
 
 ## Dependências:
-- axios
-- icons
-- router dom
-- toastify
-- styled components
-- express
-- nodemon -D
-- consign
-- cors
-- knex
-- mysql2
-- bcrypt
-- jwt-simple
-- passport
-- passport-jwt
+- axios;
+- react-icons;
+- react-router-dom;
+- toastify;
+- styled-components;
+- express.js;
+- nodemon;
+- consign;
+- cors;
+- knex;
+- mysql2;
+- bcrypt;
+- jwt-simple;
+- passport;
+- passport-jwt;
