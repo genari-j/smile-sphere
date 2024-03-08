@@ -6,7 +6,8 @@ Este projeto foi desenvolvido simulando um sistema para cadastro de pacientes. P
 
 ## Funções de forma rápida:
 
-* Crie um usuário e faça login na aplicação;
+* Crie um usuário;
+* Faça login na aplicação;
 * Cadastre seus pacientes com base no conjunto de informações;
 * Edite seus pacientes conforme o decorrer de cada tratamento;
 * Remova qualquer paciente caso necessário;
@@ -26,7 +27,7 @@ Este projeto foi desenvolvido simulando um sistema para cadastro de pacientes. P
 - axios;
 - react-icons;
 - react-router-dom;
-- toastify;
+- react-toastify;
 - styled-components;
 - express.js;
 - nodemon;
