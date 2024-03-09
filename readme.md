@@ -10,7 +10,7 @@ Este projeto foi desenvolvido simulando um sistema para cadastro de pacientes. P
 * Faça login na aplicação;
 * Cadastre seus pacientes com base no conjunto de informações;
 * Edite seus pacientes conforme o decorrer de cada tratamento;
-* Remova qualquer paciente caso necessário;
+* Remova qualquer paciente caso necessário.
 
 ### Obs:
 * Toda a aplicação está com layout responsivo.
